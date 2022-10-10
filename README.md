@@ -25,7 +25,9 @@ Next step in the Immo Eliza challenge project, this specific challenge deals wit
 
 ## Contributors
 OlivierDT
+
 NguyenDucTranNhu
+
 jackXIN88888
 
 ## (Timeline)
